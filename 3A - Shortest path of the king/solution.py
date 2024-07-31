@@ -2,7 +2,6 @@ source = list(input())
 destination = list(input())
 letters = {"a": 1, "b": 2, "c": 3, "d": 4, "e": 5, "f": 6, "g": 7, "h": 8}
 steps = []
-
 horizontal = letters[destination[0]] - letters[source[0]]
 vertical = int(destination[1]) - int(source[1])
 
