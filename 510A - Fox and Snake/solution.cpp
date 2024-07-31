@@ -5,6 +5,7 @@ int main()
 {
     int a,b,g=0;
     cin >> a >> b;
+    
     for(int i = 0; i <a; i++)
     {
         if(i %2!=0)
