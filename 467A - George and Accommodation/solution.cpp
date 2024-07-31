@@ -7,6 +7,7 @@ int main()
 {
     int n,r=0;
     cin >> n;
+    
     while(n--)
     {
         int p,q;
